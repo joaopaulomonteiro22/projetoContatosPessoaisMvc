@@ -1,0 +1,39 @@
+# Arquivos temporários
+*.log
+*.swp
+
+# Diretório de compilação
+target/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de configuração do IntelliJ
+.idea/
+
+# Logs e arquivos temporários do Spring
+logs/
+*.pid
+build/
+
+# Arquivos de configuração do Maven
+log/
+target-eclipse/
+target-intellij/
+*.iml
+
+# Arquivos de configuração do Gradle
+.gradle/
+build/
+
+# Arquivos gerados durante a execução
+build/
+
+# Arquivos de dependência
+lib/
+
+# Arquivos de configuração específicos do sistema operacional
+.DS_Store
+Thumbs.db
